@@ -1,0 +1,5 @@
+---
+title: "About this site"
+---
+
+This site showcases my work, including my curriculum vitae.
